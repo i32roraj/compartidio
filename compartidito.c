@@ -7,4 +7,5 @@ int main ()
 		printf("\t¡POBRE README!");
 		system("xset s activate");
 	}
+	printf("\nY nos vamos.\n\n");
 }
